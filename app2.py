@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from googletrans import Translator
 
 # API and base URL for LLaMA
-API_KEY = "3de2255107ef4f42a7a4fc08a8c6bb2e"
+API_KEY = ""
 BASE_URL = "https://api.aimlapi.com"
 
 # Initialize translator
